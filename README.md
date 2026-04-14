@@ -14,6 +14,9 @@ This project analyzes how environmental and social factors affect human mobility
 - Air quality data
 
 ## April 14 Progress
-- Data collected
-- Initial data inspection started
-- Data cleaning in progress
+
+- Data collection completed
+- Data cleaning performed
+- Exploratory Data Analysis (EDA) conducted
+- Hypothesis testing applied
+
