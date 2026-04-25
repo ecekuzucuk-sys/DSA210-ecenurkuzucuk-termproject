@@ -18,5 +18,5 @@ This project analyzes how environmental and social factors affect human mobility
 - Data collection completed
 - Data cleaning performed
 - Exploratory Data Analysis (EDA) conducted
-- Hypothesis testing applied
+- Hypothesis testing applied.
 
