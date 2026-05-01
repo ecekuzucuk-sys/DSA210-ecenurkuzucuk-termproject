@@ -6,4 +6,4 @@ The analysis includes:
 - Exploratory Data Analysis (EDA)
 - Visualization and comparison across cities
 
-The results show that mobility patterns differ across cities and may be influenced by environmental factors.
+The results show that mobility patterns differ across cities and may be influenced by environmental factors
