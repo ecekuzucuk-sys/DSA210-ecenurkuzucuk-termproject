@@ -78,3 +78,22 @@ This project analyzes how environmental and social factors influence human mobil
 - Exploratory Data Analysis (EDA) conducted
 - Hypothesis testing applied.
 
+- ## Machine Learning Progress
+
+Machine learning methods were applied to predict mobility levels.
+
+Models used:
+- Linear Regression
+- Random Forest Regressor
+
+Features:
+- City
+- Month
+- Day of week
+- Weekend indicator
+- Population density
+- Coastal indicator
+
+Target:
+- Mobility level
+
